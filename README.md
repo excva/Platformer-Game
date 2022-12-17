@@ -14,4 +14,4 @@
 
 
 # Game resource : Python, Pygame. 
-# Citation : https://www.youtube.com/watch?v=Ongc4EVqRjo&ab_channel=CodingWithRuss, https://github.com/russs123/Platformer.
+# Citation : https://www.youtube.com/watch?v=Ongc4EVqRjo&ab_channel=CodingWithRuss, https://github.com/russs123/Platformer. https://craftpix.net/freebies/free-horizontal-2d-game-backgrounds/.
